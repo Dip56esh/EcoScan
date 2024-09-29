@@ -14,8 +14,11 @@ User Posts: Users can browse through ideas posted by others, inspiring the commu
 **Tech Stack**
 
 Frontend: Flutter (Cross-platform mobile development)
+
 Backend: Node.js 
+
 Machine Learning: Python (TensorFlow for waste classification)
+
 Database: PostgreSQL
 
 **Installation & Setup**
@@ -77,7 +80,6 @@ Authors:
 @Sanjib Kasti
 
 
-Project Demo:
 
 
 
